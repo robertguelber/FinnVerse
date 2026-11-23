@@ -2,7 +2,17 @@
 
 **Educação financeira gamificada em 3D:** suas finanças viram uma casa que reage aos seus números.
 
-A reserva de emergência é a fundação, as dívidas abrem goteiras no telhado, a renda passiva acende painéis solares, e o clima do céu mostra a sua saúde financeira, do sol à tempestade.
+O **FinnVerse** é uma plataforma de educação financeira gamificada que transforma a vida financeira do usuário em uma **casa 3D interativa**. Em vez de gráficos e planilhas, cada parte da casa representa um componente das finanças e muda de aparência conforme os números do usuário.
+
+A **fundação** representa a reserva de emergência: quando ela é pequena, aparecem rachaduras e a casa chega a inclinar. A **caixa d'água** mostra a liquidez, com o nível de água subindo ou descendo conforme o dinheiro disponível. O **padrão de energia** indica o peso das despesas fixas com um ponteiro, e a **chaminé da cozinha** solta mais fumaça quanto maiores os gastos variáveis. As **dívidas** abrem goteiras no **telhado**, que precisa de lona no estado crítico. A **renda passiva** acende **painéis solares**, e o **jardim** floresce ou seca de acordo com o que sobra no fim do mês.
+
+Todos esses indicadores formam uma **pontuação de saúde financeira de 0 a 100**, que define o **clima** ao redor da casa: do sol aberto à tempestade com chuva, poças e raios. A cena tem ciclo de **dia, entardecer e noite**, com iluminação, reflexos e efeitos visuais inspirados em jogos.
+
+O usuário pode **girar e aproximar a câmera**, tocar em cada parte da casa para entender o que ela representa e como o indicador é calculado, e receber dicas educativas do **Finn**, o assistente virtual. Na área de **simulação**, é possível testar decisões ("e se eu cortar 20% dos gastos variáveis?", "e se eu assumir uma nova parcela?") e ver a casa reagir antes de decidir. **Missões** guiam o aprendizado, e partículas e mensagens celebram cada melhora.
+
+Os dados ficam salvos **apenas no navegador** de cada usuário, e o projeto funciona em computador e celular. O FinnVerse é uma ferramenta **educativa**: o Finn explica conceitos, mas não recomenda investimentos específicos.
+
+**Versão atual:** protótipo MVP v2.3
 
 🔗 **Jogue agora:** https://robertguelber.github.io/FinnVerse/
 
